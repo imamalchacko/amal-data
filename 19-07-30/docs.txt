@@ -1,0 +1,3 @@
+blog-post: https://github.com/amunategui/CVAE-Financial-Anomaly-Detection
+youtube video: https://www.youtube.com/watch?v=ZNTO5a-eg6E
+data-set: https://github.com/CNuge/kaggle-code/tree/master/stock_data
